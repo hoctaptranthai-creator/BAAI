@@ -1,10 +1,11 @@
 #
-# James
-# Short description of the task
+# TeeZ, 2025/09/24
+# file: 0-template.py
+# short description on the task of this file
 #
 
-# 1. Input
+#1. Input
 
-# 2. Process
+#2. Process
 
-# 3. Output
+#3. Output
